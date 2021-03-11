@@ -1,2 +1,2 @@
-# demo
+# augmentation
 Augmenteation algorithms
